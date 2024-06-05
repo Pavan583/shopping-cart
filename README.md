@@ -69,8 +69,7 @@ Note: The payment page is created only for demo purpose and its not fully integr
 - Class Diagram
 <img width="589" alt="image" src="https://github.com/shashirajraja/shopping-cart/assets/34605595/d6dbfdb9-5108-4071-b4b6-d055f0370acd">
 
-#### "Suggestions and project improvement ideas are welcomed!"
+#### "Thanks a lot"
 
-<bold>Thanks a lot</bold><br/>
                                                                                                       
 
