@@ -72,5 +72,5 @@ Note: The payment page is created only for demo purpose and its not fully integr
 #### "Suggestions and project improvement ideas are welcomed!"
 
 <bold>Thanks a lot</bold><br/>
-                                                                                                        \\
+                                                                                                      
 
